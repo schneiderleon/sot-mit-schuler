@@ -1,0 +1,10 @@
+echo "# sot-mit-schuler" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/schneiderleon/sot-mit-schuler.git
+git push -u origin main 
+
+
+nice nice nice 
